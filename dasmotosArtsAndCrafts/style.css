@@ -1,0 +1,39 @@
+header{
+    font-size: 50px; /* Design Spec says 100px, though I suggest 50px */
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+}
+
+body{
+    font-family: Helvetica;
+}
+
+.brushes{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;   
+}
+
+#price{
+    font-weight: bold;
+    color: blue;
+}
+
+.frames{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.paint{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+
